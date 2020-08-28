@@ -1,0 +1,36 @@
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.Form1.resources
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.Properties.Resources.resources
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.csproj.GenerateResource.Cache
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.csproj.CoreCompileInputs.cache
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\bin\Debug\DIplom_Romensky.exe.config
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\bin\Debug\DIplom_Romensky.exe
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\bin\Debug\DIplom_Romensky.pdb
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\bin\Debug\EntityFramework.dll
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\bin\Debug\EntityFramework.SqlServer.dll
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\bin\Debug\EntityFramework.xml
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\bin\Debug\EntityFramework.SqlServer.xml
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\bin\Debug\ru\EntityFramework.resources.dll
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.exe
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.pdb
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.csprojResolveAssemblyReference.cache
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.New1.resources
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.Information1.resources
+D:\Практика Носиков\Дипломы\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.Update1.resources
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\bin\Debug\DIplom_Romensky.exe.config
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\bin\Debug\DIplom_Romensky.exe
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\bin\Debug\DIplom_Romensky.pdb
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\bin\Debug\EntityFramework.dll
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\bin\Debug\EntityFramework.xml
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.csprojResolveAssemblyReference.cache
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.Form1.resources
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.Information1.resources
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.New1.resources
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.Properties.Resources.resources
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.Update1.resources
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.csproj.GenerateResource.Cache
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.csproj.CoreCompileInputs.cache
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.exe
+C:\Users\WSR\Desktop\DIplom_Romensky\DIplom_Romensky\obj\Debug\DIplom_Romensky.pdb

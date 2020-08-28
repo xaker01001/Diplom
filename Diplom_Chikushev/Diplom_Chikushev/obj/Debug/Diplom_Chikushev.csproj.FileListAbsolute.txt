@@ -1,0 +1,113 @@
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.exe.config
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.exe
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.pdb
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.dll
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.SqlServer.dll
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.xml
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.SqlServer.xml
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\ru\EntityFramework.resources.dll
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.AddClient.resources
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.AddZakaz.resources
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Core.Updateinf.resources
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Form1.resources
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Information.resources
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Properties.Resources.resources
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.UpdateZakaz.resources
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Zakaz.resources
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.GenerateResource.Cache
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.CoreCompileInputs.cache
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.exe
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.pdb
+D:\Практика Носиков\Дипломы\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.exe.config
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.exe
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.pdb
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.dll
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.xml
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.AddClient.resources
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.AddZakaz.resources
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Core.Updateinf.resources
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Form1.resources
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Information.resources
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Properties.Resources.resources
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.UpdateZakaz.resources
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Zakaz.resources
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.CopyComplete
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.exe
+C:\Users\Олег\Desktop\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.pdb
+E:\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.exe.config
+E:\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.exe
+E:\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.pdb
+E:\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.dll
+E:\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.SqlServer.dll
+E:\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.xml
+E:\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.SqlServer.xml
+E:\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\ru\EntityFramework.resources.dll
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csprojResolveAssemblyReference.cache
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.AddClient.resources
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.AddZakaz.resources
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Core.Updateinf.resources
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Form1.resources
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Information.resources
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Properties.Resources.resources
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.UpdateZakaz.resources
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Zakaz.resources
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.GenerateResource.Cache
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.CoreCompileInputs.cache
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.exe
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.pdb
+E:\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Migrations.InitialCreate.resources
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.exe.config
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.exe
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.pdb
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.dll
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.xml
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.AddClient.resources
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.AddZakaz.resources
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Core.Updateinf.resources
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Form1.resources
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Information.resources
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Migrations.InitialCreate.resources
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Properties.Resources.resources
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.UpdateZakaz.resources
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Zakaz.resources
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.CopyComplete
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.exe
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.pdb
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Дипломы\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Oprogramme.resources
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.exe.config
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.exe
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\Diplom_Chikushev.pdb
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.dll
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.xml
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.AddClient.resources
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.AddZakaz.resources
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Core.Updateinf.resources
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Form1.resources
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Information.resources
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Migrations.InitialCreate.resources
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Oprogramme.resources
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Properties.Resources.resources
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.UpdateZakaz.resources
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.Zakaz.resources
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.csproj.CopyComplete
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.exe
+C:\Users\Олег\Desktop\Дипломы\Дипломы сделанные\Диплом Цикушев\Diplom_Chikushev\Diplom_Chikushev\obj\Debug\Diplom_Chikushev.pdb
